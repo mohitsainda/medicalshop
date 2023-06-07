@@ -1,0 +1,15 @@
+#q1{
+    background-color: blueviolet;
+    height: 100vh;
+}
+.text-center {
+    text-align: center!important;
+    font-size: 67px;
+    background-color: aqua;
+    color: black;
+    font-family: fangsong;
+}
+#accordionExample{
+    margin-top: 60px;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+}
